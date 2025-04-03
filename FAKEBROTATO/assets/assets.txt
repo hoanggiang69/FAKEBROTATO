@@ -1,2 +1,0 @@
-background.png
-player.png
